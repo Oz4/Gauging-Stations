@@ -4,6 +4,7 @@
 
 ![example](https://github.com/Oz4/Gauging-Stations/blob/main/example.png)
 
-:::note 
-The website contains sensitive data and can not be shared
-:::
+
+```
+The website contains sensitive information and can not be shared
+```
