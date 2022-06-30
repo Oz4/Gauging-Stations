@@ -1,0 +1,8 @@
+username: admin
+email:admin@gmail.com
+password:QuPDyM56kznEMuk@#$
+
+db
+
+user:EPIZ_29907164
+pass:keQ3sM7ozup3

@@ -1,0 +1,26 @@
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+  background: white;
+  color: #6e8ef7 !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:active {
+  background: white;
+  color: #6e8ef7 !important;
+}
+
+.paginate_button {
+  border-style: none !important;
+  background-color: none;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:focus {
+  background: white;
+  color: #6e8ef7 !important;
+  border-style: none !important;
+}
+
+.paginate_button.current{
+    background: rgb(240, 240, 245) !important;
+    font-size: 20px;
+    border-radius: 7px !important;
+}

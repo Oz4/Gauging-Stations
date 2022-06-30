@@ -1,0 +1,41 @@
+.topbar {
+    width: 90%;
+    height: 65px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+    border-radius: 0.5vw;
+    position: fixed;
+    left: 5%;
+    top: 0;
+    z-index: 999;
+  }
+  
+  .topbarWrapper {
+    width: 80%;
+    margin: 0 auto;
+    height: 100%;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    font-weight: bold;
+    font-size: 30px;
+    color: #6e8ef7;
+    cursor: pointer;
+  }
+  .topRight {
+      display: flex;
+      align-items: center;
+  }
+  .topRight .logout-btn{
+    font-size: 15px;
+    color: #6e8ef7;
+    text-decoration: none;
+    cursor: pointer;
+    
+  }
+  
+  

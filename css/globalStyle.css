@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow: hidden; */
+  }
+  
+  html,
+  body {
+    font-weight: 300;
+    font-size: 18px;
+    /* color: #fcf9ff; */
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  h2 {
+    font-size: 60px;
+    font-weight: 500;
+  }
+  h3 {
+    font-size: 32px;
+  }
+  h4 {
+    font-size: 24px;
+  }
+  
+  h5 {
+    font-size: 18px;
+  }
+  
+  h6 {
+    font-size: 14px;
+  }
+  
+  .MuiDataGrid-window {
+    font-size: 15px;
+  }
+  
+  body::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #ffffff;
+  }
+  
+  body::-webkit-scrollbar {
+    width: 7px;
+    background-color: #ffffff;
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #dadada;
+  }
+  
